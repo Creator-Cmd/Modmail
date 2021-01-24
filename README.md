@@ -19,4 +19,4 @@ close | close [reason]
 # ⚠️ Notes/Warning
 - This modmail bot is at version 1.0.1. I can attempt to replicate the real modmail discord bot, if you want me to just let me know by starring the repo ;)
 
-\- [Dark Codes](https://discord.gg/eXqazAu)
+\- [Dark Codes](https://discord.gg/devs)
